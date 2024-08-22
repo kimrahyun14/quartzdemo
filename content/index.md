@@ -1,6 +1,9 @@
 ---
 title: UCLA OSPO Home Page
 ---
+
+# [Interested in our blog page?](./blog.md)
+
 # UCLA Open Source Program Office (OSPO)
 
 Welcome to the UCLA Open Source Program Office (OSPO)! Our mission is to support and promote open source initiatives at UCLA, fostering a collaborative environment where innovation thrives.
