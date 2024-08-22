@@ -1,4 +1,6 @@
-# Blog Homepage
+---
+title: Blog Home Page
+---
 
 ## Latest Posts
 
